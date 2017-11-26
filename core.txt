@@ -5,5 +5,6 @@ fixbug1
 dev1
 feature1
 feature2
+fix bug2
 
 
